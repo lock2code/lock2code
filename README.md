@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lock2code
 - 👀 I’m interested in robotics, control systems and data science
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on anything mechanical or ivolving control systems
+- 🌱 I’m currently learning java, JPA and spring
+- 💞️ I’m looking to collaborate on anything mechanical or involving control systems
 - 📫 How to reach me edmarsden@icloud.com
 
 <!---
